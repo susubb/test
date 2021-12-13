@@ -10,50 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e42fad17-df49-4a43-86f2-2814197475cd" name="变更" comment="123">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/out/production/01_ajax/domain/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/out/production/01_ajax/servlet/FiveServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/out/production/01_ajax/servlet/FourServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/out/production/01_ajax/servlet/OneServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/out/production/01_ajax/servlet/ThreeServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/out/production/01_ajax/servlet/TwoServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/src/main/java/domain/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/src/main/java/servlet/FiveServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/src/main/java/servlet/FourServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/src/main/java/servlet/OneServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/src/main/java/servlet/ThreeServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/src/main/java/servlet/TwoServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/src/main/webapp/js/jquery-3.4.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/src/main/webapp/test1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/src/main/webapp/test2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/src/main/webapp/test3.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/src/main/webapp/test4.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/src/main/webapp/test5.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/target/01_ajax/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/target/01_ajax/WEB-INF/classes/domain/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/target/01_ajax/WEB-INF/classes/servlet/FiveServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/target/01_ajax/WEB-INF/classes/servlet/FourServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/target/01_ajax/WEB-INF/classes/servlet/OneServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/target/01_ajax/WEB-INF/classes/servlet/ThreeServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/target/01_ajax/WEB-INF/classes/servlet/TwoServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/target/01_ajax/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/target/01_ajax/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/target/01_ajax/js/jquery-3.4.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/target/01_ajax/test1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/target/01_ajax/test2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/target/01_ajax/test3.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/target/01_ajax/test4.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_ajax/target/01_ajax/test5.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +137,8 @@
       <workItem from="1638924272814" duration="5930000" />
       <workItem from="1638935503547" duration="9446000" />
       <workItem from="1639011017583" duration="20166000" />
-      <workItem from="1639097033047" duration="9686000" />
+      <workItem from="1639097033047" duration="9736000" />
+      <workItem from="1639364754987" duration="651000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1639121106211</created>
@@ -189,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639121106211</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="123">
+      <created>1639121442552</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639121442552</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +170,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="123" />
